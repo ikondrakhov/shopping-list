@@ -1,6 +1,13 @@
 # Приложение списка покупок
 ___
 
+## Start
+
+### Windows
+    mvnw.cmd test // run tests
+
+    mvnw.cmd spring-boot:run // run the app
+
 ## API
 
 ### post /list
